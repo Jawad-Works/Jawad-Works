@@ -1,7 +1,14 @@
-# 👋 Hi, I'm Muhammad Jawad Ijaz!
+<!-- Typing animation using SVG -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+Muhammad+Jawad+Ijaz;MERN+Stack+Engineer+%7C+DevOps+Curious;I+build+scalable+apps+with+clean+UIs!" alt="Typing SVG" />
+</h2>
+
+---
+
+# 👨‍💻 About Me
 
 🚀 Full Stack MERN Engineer | 🧠 Problem Solver | 🎨 UI Enthusiast | 💬 DevOps Curious  
-🔧 Currently building cool stuff @ CodeNinja Inc. | 📍 Lahore, Pakistan
+🔧 Currently building cool stuff @ CodeNinja Inc. | 📍 Lahore, Pakistan  
 
 ---
 
@@ -11,47 +18,43 @@
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🧰 Tech Stack & Tools
 
-**Frontend:**  
-React.js · Next.js · Redux · Tailwind CSS · Material UI · Ant Design · Shadcn · TanStack Query
-
-**Backend:**  
-Node.js · Express.js · Hapi.js
-
-**Databases:**  
-MongoDB · MySQL · PostgreSQL
-
-**DevOps & CI/CD:**  
-Docker · GitHub Actions · DigitalOcean · Agile with JIRA
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions)
 
 ---
 
-## 🌟 Featured Projects
+## 🔥 Projects
 
-- 🎙️ [**Voxbee.ai**](https://app.voxbee.ai/) – AI-powered dubbing with voice cloning & TTS. Built the entire payment + subscription logic tied to a usage-based credit system.
-- 📢 [**PushBrands.app**](https://app.pushbrands.app/) – UGC-based advertising tool with real-time messaging and secure role-based dashboards.
-- 🏬 **24Seven** – E-commerce ecosystem with Magento/Odoo integration, JWT auth, and push notifications.
-- 👁️‍🗨️ **Otto Optics** – Designed complex UI interfaces with futuristic UX and smooth Tailwind transitions.
-
----
-
-## 🧠 What I Value
-
-✨ Clean Code  
-🔄 Efficient API Calls  
-⚙️ Scalable Architecture  
-📈 UI/UX that just makes sense  
-🤝 Teamwork in Agile environments
+- 🎙️ [**Voxbee.ai**](https://app.voxbee.ai/) – AI dubbing, TTS, credit-based subscription & secure payments.
+- 📢 [**PushBrands.app**](https://app.pushbrands.app/) – UGC advertising platform with real-time chat, JWT auth.
+- 🏪 **24Seven** – E-commerce suite with Magento/Odoo APIs, JWT login, Firebase notifications.
+- 🧪 **Otto Optics** – Futuristic UI with Tailwind + Next.js.
+- 🚚 **Makhdoom Logistics** – React front-end with dynamic API integration.
 
 ---
 
-## 📬 Let's Connect!
+## 📊 GitHub Stats
 
-- 🌐 [Portfolio](https://jawad-ijaz-portfolio.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-jawad-ijaz/)
-- 📧 jawadijaz12@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-jawad-ijaz&show_icons=true&theme=react" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-jawad-ijaz&theme=react" height="180" />
+</p>
 
 ---
 
-> "Code is poetry—and I like writing stanzas that scale." 💻✍️
+## 📬 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://jawad-ijaz-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-jawad-ijaz/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:jawadijaz12@gmail.com)
+
+---
+
+> “Code is poetry—and I like writing stanzas that scale.” 💻✍️
