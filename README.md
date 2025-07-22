@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Jawad Ijaz!
 
 🚀 Full Stack MERN Engineer | 🧠 Problem Solver | 🎨 UI Enthusiast | 💬 DevOps Curious  
-🔧 Currently building cool stuff @ Voxbee.ai | 📍 Lahore, Pakistan
+🔧 Currently building cool stuff @ CodeNinja Inc. | 📍 Lahore, Pakistan
 
 ---
 
