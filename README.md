@@ -9,7 +9,7 @@
 
 # 👨‍💻 About Me
 
-🚀 Full Stack MERN Engineer | 🧠 Problem Solver | 🎨 UI Enthusiast | 💬 DevOps Curious  
+🚀 Full Stack MERN Engineer | 🧠 Problem Solver | 🎨 UI Enthusiast | 🛠️ Backend Optimizer | 💬 DevOps Curious  
 🔧 Currently building cool stuff @ CodeNinja Inc. | 📍 Lahore, Pakistan  
 
 ---
@@ -34,20 +34,10 @@
 
 ## 🔥 Projects
 
-- 🎙️ [**Voxbee.ai**](https://app.voxbee.ai/) – AI dubbing, TTS, credit-based subscription & secure payments.
-- 📢 [**PushBrands.app**](https://app.pushbrands.app/) – UGC advertising platform with real-time chat, JWT auth.
-- 🏪 **24Seven** – E-commerce suite with Magento/Odoo APIs, JWT login, Firebase notifications.
-- 🧪 **Otto Optics** – Futuristic UI with Tailwind + Next.js.
-- 🚚 **Makhdoom Logistics** – React front-end with dynamic API integration.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jawad-works&show_icons=true&theme=react" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-works&theme=react" height="180" />
-</p>
+- 🎙️ [**Voxbee.ai**](https://app.voxbee.ai/) – An AI-powered voice cloning and dubbing platform that enables effortless localization of videos with high-quality multilingual voiceovers.
+- 📢 [**PushBrands.app**](https://app.pushbrands.app/) – A UGC marketing platform that connects brands with real content creators, streamlining campaign management from discovery to delivery.
+- 🧪 [**Otto Optics**](https://www.ottooptics.io/) – An online optometry e‑commerce portal offering easy ordering and re‑ordering of contact lenses and eye care products backed by professional verification.
+- 🚚 [**Makhdoom Logistics**](https://mkhdoom.sa/) – A logistics management platform combining AI tools for secure, cost‑effective shipping, real‑time tracking, and comprehensive freight control.
 
 ---
 
