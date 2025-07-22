@@ -45,8 +45,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-jawad-ijaz&show_icons=true&theme=react" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-jawad-ijaz&theme=react" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jawad-works&show_icons=true&theme=react" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-works&theme=react" height="180" />
 </p>
 
 ---
