@@ -1,6 +1,8 @@
 <!-- Typing animation using SVG -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+Muhammad+Jawad+Ijaz;MERN+Stack+Engineer+%7C+DevOps+Curious;I+build+scalable+apps+with+clean+UIs!" alt="Typing SVG" />
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3F87F5&center=true&vCenter=true&width=500&lines=Hi+I'm+Muhammad+Jawad+Ijaz;Full+Stack+MERN+Engineer;DevOps+Curious+%7C+UI+Enthusiast;Building+cool+things+with+code!" alt="Typing Animation" />
+</p>
 </h2>
 
 ---
